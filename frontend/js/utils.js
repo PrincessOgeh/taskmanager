@@ -1,4 +1,4 @@
-const apiUrl = 'https://taskmanager-backend-zsph.onrender.com'; // Base URL for the API
+const apiUrl = 'https://taskmanager-sp8u.onrender.com'; // Base URL for the API
 
 // Generic GET request
 async function getData(endpoint, token = '') {
